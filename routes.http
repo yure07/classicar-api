@@ -1,0 +1,4 @@
+//GET http://localhost:3333/api/cars
+
+
+DELETE http://localhost:3333/api/cars/ddb21294-54a5-4d72-ae67-b73d56a23482
